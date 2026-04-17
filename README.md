@@ -16,12 +16,12 @@ Tôi là một Fullstack Developer với đam mê xây dựng các hệ thống 
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,pug" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🔧 Tools & DevOps
