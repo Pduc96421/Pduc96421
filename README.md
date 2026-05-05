@@ -1,4 +1,4 @@
-# Hi there, I'm Duc (Pduc96421) 👋
+# Hi there, I'm Duc 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Backend+Specialist;Microservices+Enthusiast" alt="Typing SVG" />
